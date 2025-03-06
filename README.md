@@ -43,7 +43,7 @@ a local Ollama server, you could change the Spring AI OpenAI dependency in build
 implementation 'org.springframework.ai:spring-ai-ollama-spring-boot-starter'
 ```
 
-And set the following configuration property in application.properties:
+And set the following configuration property in application.properties: 
 
 ```
 spring.ai.ollama.chat.model=llama3.2
